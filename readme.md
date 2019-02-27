@@ -6,7 +6,7 @@ Redesign the same application using a constraint-layout.
 
 Read more at https://developer.android.com/training/constraint-layout
 
-![Design](linear-layout.gif)
+![Design](snapshot.png)
 
-2019年2月27日10点25分
+2019年2月27日11点00分
 Redesign by lisocean
